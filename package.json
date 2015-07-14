@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/pocketly/sand-ldap#readme",
   "dependencies": {
-    "ldapauth-fork": "2.3.1",
     "ldapjs": "mcavage/node-ldapjs",
+    "lodash": "^3.10.0",
     "sand-grain": "^1.0.0"
   }
 }
