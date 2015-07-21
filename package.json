@@ -1,6 +1,6 @@
 {
   "name": "sand-ldap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sand.js LDAP Client",
   "main": "lib/ldap.js",
   "scripts": {
